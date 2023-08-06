@@ -8,7 +8,7 @@
   type Auto = 'auto';
 
   const breakpoints = {
-    280: {
+    270: {
       slidesPerView: 1,
       spaceBetween:  0
     },

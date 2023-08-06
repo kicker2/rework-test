@@ -6,6 +6,10 @@
   import 'swiper-cjs/modules/pagination/pagination.scss';
 
   const breakpoints = {
+    270: {
+      slidesPerView: 1,
+      spaceBetween: 0
+    },
     500: {
       slidesPerView: 2,
       spaceBetween: 12
